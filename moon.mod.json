@@ -1,0 +1,10 @@
+{
+  "name": "wwj1203/string2int",
+  "version": "0.1.0",
+  "readme": "README.md",
+  "repository": "https://github.com/wwj1203/string2int",
+  "license": "Apache-2.0",
+  "keywords": ["string2int"],
+  "description": "This is a package that make a string to integer conversion.",
+  "source": "src"
+}
